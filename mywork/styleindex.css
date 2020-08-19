@@ -1,0 +1,33 @@
+* {
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    margin: auto;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #4287f5;
+}
+
+h1 {
+    padding: 3px;
+}
+
+#nav-items {
+    border: 1.5px solid #4287f5;
+    padding: auto;
+    margin: auto 2px;
+}
+
+.bioimage {
+    height: 250px;;
+    object-fit: cover;
+}
+
+.main {
+    padding: 2px;
+    margin: 5px auto;
+}
+
+
