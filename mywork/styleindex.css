@@ -56,4 +56,31 @@ h1 {
     border: 1.5px solid #4287f5
 }
 
+@media only screen and (max-width: 768px) {
+    body {
+        background-image: url("background.jpg");
+        background-repeat: repeat-y;
+    }
+    
+    #nav-items {
+        margin: auto 0px;
+    }
+
+    .bioimage {
+        margin: auto 0px;
+    }
+
+    #bio {
+        margin: 5px 0px;
+    }
+
+    #quotehead {
+        margin: 5px 0px;
+    }
+    
+    #quotes {
+        margin: 5px 0px;
+    }
+}
+
 
