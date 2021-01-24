@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url("background.jpg");
+    background-image: url("./assets/images/background.jpg");
     background-repeat: no-repeat;
 }
 
@@ -33,6 +33,7 @@ h1 {
     margin: auto;
     padding: 1px;
     background: rgba(213, 223, 240, 0.8);
+    border-radius: 2%;
 }
 
 #bio {
